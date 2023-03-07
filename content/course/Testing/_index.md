@@ -12,7 +12,7 @@ tags:
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## ايش راح تتعلم
 
 - Fundamental {{<hl>}}Python programming skills{{</hl>}}
 - {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
@@ -20,7 +20,7 @@ tags:
 
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+خلونا نشوف يا ابطال
 
 ## Courses in this program
 
